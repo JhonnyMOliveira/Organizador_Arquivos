@@ -87,10 +87,9 @@ Depois da execução:
 - Permitir escolha do diretório por argumento de linha de comando.
 - Implementar logs detalhados da execução.
 
+---
 
-#### 👨‍💻 Autor
-
-Jhonny Marcelo de Oliveira
-Engenheiro Eletricista com Ênfase em Telecomunicações | Especialista em Redes | Entusiasta por soluções em Python e Automações.
-
-
+📅 Projeto iniciado: **Julho de 2025**  
+👤 Autor: **Jhonny Marcelo de Oliveira**  
+📫 Acompanhe no LinkedIn: [Jhonny M. Oliveira](https://www.linkedin.com/in/jhonnymoliveira/)  
+🚀 Engenheiro Eletricista com Ênfase em Telecomunicações | Especialista em Redes | Entusiasta por soluções em Python e Automações.

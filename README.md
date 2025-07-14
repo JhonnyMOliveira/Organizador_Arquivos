@@ -92,4 +92,4 @@ Depois da execução:
 📅 Projeto iniciado: **Julho de 2025**  
 👤 Autor: **Jhonny Marcelo de Oliveira**  
 📫 Acompanhe no LinkedIn: [Jhonny M. Oliveira](https://www.linkedin.com/in/jhonnymoliveira/)  
-🚀 Engenheiro Eletricista com Ênfase em Telecomunicações | Especialista em Redes | Entusiasta por soluções em Python e Automações.
+🚀 Engenheiro Eletricista com Ênfase em Telecomunicações | Especialista em Redes | Entusiasta por soluções em Python, Automações e Transformação Digital.
